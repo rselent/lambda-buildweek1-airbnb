@@ -12,6 +12,10 @@ One of the very first interesting things I found was that the dataset had over 4
 
 ![](./images/context.png)
 
+<p align="center">
+    <img src="./images/context.png"/>
+</p>
+
 If we remove the map from underneath all those datapoints, we'd still be able to clearly define all five Boroughs of New York City. That's insane. Here's a look at those 48,000 Airbnb rentals and how they're divided up between each Borough:
 
 ![](../assets/img/posts/airbnb-nyc/context-bars.png)
