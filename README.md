@@ -25,8 +25,8 @@ I started to wonder, though. With over 48,000 possible places for someone to ren
 (And a fancy graph or two, too!)
 
 <p align="center">
-| Minimum price  | Maximum price  |
-| -------------: | --------------:|
+| Minimum price  | Maximum price  |<br>
+| -------------: | --------------:|<br>
 |         $0.00  |     $10,000.00 |
 </p>
 
