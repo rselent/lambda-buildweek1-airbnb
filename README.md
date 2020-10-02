@@ -10,7 +10,7 @@ I tried to make the best of it, expecting that my audience (or customers, client
 
 One of the very first interesting things I found was that the dataset had over 48,000 observations -- for my very first legit data science project, I was _beyond_ impressed. But more importantly, in a city that covers only 302 square miles (782 square km) of land, that's over _158 Airbnb rental properties per square mile_ (or over 61 per square km). If we look at that in map form, it looks a little something like this:
 
-![](../assets/img/posts/airbnb-nyc/context.png)
+![](../images/context.png)
 
 If we remove the map from underneath all those datapoints, we'd still be able to clearly define all five Boroughs of New York City. That's insane. Here's a look at those 48,000 Airbnb rentals and how they're divided up between each Borough:
 
