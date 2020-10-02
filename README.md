@@ -24,11 +24,11 @@ If we remove the map from underneath all those datapoints, we'd still be able to
 I started to wonder, though. With over 48,000 possible places for someone to rent on any given day, surely many of these Airbnb rentals must be dirt cheap, right? Well, after a little exploration and data wrangling -- which, honestly, can feel like herding cats sometimes -- I had my answer.  
 (And a fancy graph or two, too!)
 
-<p align="center">
-| Minimum price  | Maximum price  |<br>
-| -------------: | --------------:|<br>
+
+| Minimum price  | Maximum price  |
+| -------------: | --------------:|
 |         $0.00  |     $10,000.00 |
-</p>
+
 
 You're probably thinking to yourself now, much like I was, "_Wait, there are Airbnb's available for $0 per night, and others for $10,000 per night???_" Like I said, this comes with some cool graphs, and this is kind of where it starts to get interesting:
 
@@ -65,9 +65,11 @@ Raw data like that wasn't enough. I went back to my dataset and eventually notic
 | -------------------: | ---------------------:| ---------------------:|
 |                 747  |                   81  |                   44  |
 
+
 Quite the contrary, though. This is actually _really interesting_. There are over 700 listings in the city that are classified as requiring _at least_ a 30-day rental duration. I couldn't help but ask why. "_This seems really strange, what law are they trying to get around?_" I thought to myself. Turns out, there's a statewide law in New York that prevents rentals of less than 30 days in multi-family buildings of any kind -- which means it's _these_ orange dots that are lawful units, _especially_ in Manhattan. How many single-family buildings do you know of in Manhattan? I am _definitely_ suspicous of the 44 listings that ask for a 360-day minimum stay, though. _A renter might as well just sign a lease at that point._
 
 Moving on, after that discovery, I also became quite suspicious of hosts that are listing more than 30 rentals _each_. Here are the top 10 host IDs, by number of rental properties they have listed:
+
 
 | Host ID  | Number of properties  |
 | -------------: | --------------:|
