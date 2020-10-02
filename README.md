@@ -24,9 +24,11 @@ If we remove the map from underneath all those datapoints, we'd still be able to
 I started to wonder, though. With over 48,000 possible places for someone to rent on any given day, surely many of these Airbnb rentals must be dirt cheap, right? Well, after a little exploration and data wrangling -- which, honestly, can feel like herding cats sometimes -- I had my answer.  
 (And a fancy graph or two, too!)
 
+<p align="center">
 | Minimum price  | Maximum price  |
 | -------------: | --------------:|
 |         $0.00  |     $10,000.00 |
+</p>
 
 You're probably thinking to yourself now, much like I was, "_Wait, there are Airbnb's available for $0 per night, and others for $10,000 per night???_" Like I said, this comes with some cool graphs, and this is kind of where it starts to get interesting:
 
