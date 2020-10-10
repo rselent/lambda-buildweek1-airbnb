@@ -1,7 +1,7 @@
 # An Airbnb Exploration of New York City
 ##### Tech Stack:
 **Language:**&nbsp; Python  
-**Libraries:** Pandas  Matplotlib  Seaborn
+**Libraries:**&nbsp; &nbsp; Pandas  Matplotlib  Seaborn
 
 -----
 
